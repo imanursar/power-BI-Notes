@@ -1,0 +1,15 @@
+bureau:1716429
+bureau_balance:27299926
+credit_card_balance:3840313
+final_application:307512
+pos_cash_balance:10001359
+installments_payments:13605402
+previous_application:1670215
+agg01_bureau:1716428
+agg02_bureau_balance:817395
+agg03_new bureau_balance:305811
+agg_credit_balance:103558
+agg_pos_cash_balance:337252
+agg_installments_payments:339587
+agg_previous_application:338857
+agg_final_application:307511

@@ -1,0 +1,18 @@
+Upload Data credit balance Balance|5GB|2020-09-14 09:31:24|2020-09-14 09:31:31|0 days 0 hours 0 minutes 7 seconds|
+Upload Data previous application|5GB|2020-09-14 09:31:24|2020-09-14 09:31:31|0 days 0 hours 0 minutes 7 seconds|
+Upload Data installments payments|5GB|2020-09-14 09:31:24|2020-09-14 09:31:31|0 days 0 hours 0 minutes 7 seconds|
+Upload Data Bureau|5GB|2020-09-14 09:31:24|2020-09-14 09:31:31|0 days 0 hours 0 minutes 7 seconds|
+Upload Data POS cash balance|5GB|2020-09-14 09:31:24|2020-09-14 09:31:31|0 days 0 hours 0 minutes 7 seconds|
+Upload Data Bureau Balance|5GB|2020-09-14 09:31:24|2020-09-14 09:31:31|0 days 0 hours 0 minutes 7 seconds|
+Upload Data final application train|5GB|2020-09-14 09:31:24|2020-09-14 09:31:38|0 days 0 hours 0 minutes 14 seconds|
+OVERALL UPLOAD DATA|5GB|2020-09-14 09:31:24|2020-09-14 09:31:38|0 days 0 hours 0 minutes 14 seconds
+agg04_pos_cash_balance|5GB|2020-09-14 09:31:38|2020-09-14 09:31:40|0 days 0 hours 0 minutes 2 seconds
+agg02_credit_card_balance|5GB|2020-09-14 09:31:38|2020-09-14 09:31:40|0 days 0 hours 0 minutes 2 seconds
+agg01_1_agg_bureau|5GB|2020-09-14 09:31:38|2020-09-14 09:31:41|0 days 0 hours 0 minutes 3 seconds|
+agg05_previous_application|5GB|2020-09-14 09:31:40|2020-09-14 09:31:42|0 days 0 hours 0 minutes 2 seconds
+agg03_installments_payments|5GB|2020-09-14 09:31:40|2020-09-14 09:31:43|0 days 0 hours 0 minutes 3 seconds
+agg01_2_agg_bureau_balance|5GB|2020-09-14 09:31:41|2020-09-14 09:31:43|0 days 0 hours 0 minutes 2 seconds|
+agg01_3_new_bureau_balance|5GB|2020-09-14 09:31:43|2020-09-14 09:31:46|0 days 0 hours 0 minutes 3 seconds|
+agg06_final_application_train|5GB|2020-09-14 09:31:46|2020-09-14 09:31:48|0 days 0 hours 0 minutes 2 seconds
+OVERALL AGGREGATION|5GB|2020-09-14 09:31:46|2020-09-14 09:31:48|0 days 0 hours 0 minutes 10 seconds
+OVERALL WORKFLOW EXECUTION|5GB|2020-09-14 09:31:24|2020-09-14 09:31:48|0 days 0 hours 0 minutes 24 seconds

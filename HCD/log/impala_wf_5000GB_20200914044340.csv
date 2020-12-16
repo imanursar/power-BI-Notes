@@ -1,0 +1,18 @@
+Upload Data final application train|5000GB|2020-09-14 04:43:40|2020-09-14 04:44:01|0 days 0 hours 0 minutes 21 seconds|0
+Upload Data POS cash balance|5000GB|2020-09-14 04:43:40|2020-09-14 05:09:51|0 days 0 hours 26 minutes 11 seconds|2000271800
+Upload Data credit balance Balance|5000GB|2020-09-14 04:43:40|2020-09-14 05:09:53|0 days 0 hours 26 minutes 13 seconds|768062600
+Upload Data previous application|5000GB|2020-09-14 04:43:40|2020-09-14 05:37:12|0 days 0 hours 53 minutes 32 seconds|0
+Upload Data installments payments|5000GB|2020-09-14 04:43:40|2020-09-14 05:38:26|0 days 0 hours 54 minutes 46 seconds|2721080400
+Upload Data Bureau|5000GB|2020-09-14 04:43:40|2020-09-14 06:37:43|0 days 1 hours 54 minutes 3 seconds|0
+Upload Data Bureau Balance|5000GB|2020-09-14 04:43:40|2020-09-14 06:37:45|0 days 1 hours 54 minutes 5 seconds|0
+OVERALL UPLOAD DATA|5000GB|2020-09-14 04:43:40|2020-09-14 06:37:45|0 days 1 hours 54 minutes 5 seconds|0
+agg01_1_agg_bureau|5000GB|2020-09-14 06:37:45|2020-09-14 06:39:21|0 days 0 hours 1 minutes 36 seconds|0
+agg02_credit_card_balance|5000GB|2020-09-14 06:37:45|2020-09-14 06:40:11|0 days 0 hours 2 minutes 26 seconds|0
+agg04_pos_cash_balance|5000GB|2020-09-14 06:37:45|2020-09-14 06:41:40|0 days 0 hours 3 minutes 55 seconds|0
+agg01_2_agg_bureau_balance|5000GB|2020-09-14 06:39:21|2020-09-14 06:43:13|0 days 0 hours 3 minutes 52 seconds|3269580
+agg01_3_new_bureau_balance|5000GB|2020-09-14 06:43:13|2020-09-14 06:43:16|0 days 0 hours 0 minutes 3 seconds|0
+agg03_installments_payments|5000GB|2020-09-14 06:40:11|2020-09-14 06:45:33|0 days 0 hours 5 minutes 22 seconds|0
+agg05_previous_application|5000GB|2020-09-14 06:41:40|2020-09-14 06:46:35|0 days 0 hours 4 minutes 55 seconds|0
+agg06_final_application_train|5000GB|2020-09-14 06:46:35|2020-09-14 06:46:38|0 days 0 hours 0 minutes 3 seconds|0
+OVERALL AGGREGATION|5000GB|2020-09-14 06:46:35|2020-09-14 06:46:38|0 days 0 hours 8 minutes 53 seconds|0
+OVERALL WORKFLOW EXECUTION|5000GB|2020-09-14 04:43:40|2020-09-14 06:46:38|0 days 2 hours 2 minutes 58 seconds|0

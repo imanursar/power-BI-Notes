@@ -1,0 +1,18 @@
+Upload Data final application train|300GB|2020-09-14 02:59:22|2020-09-14 02:59:46|0 days 0 hours 0 minutes 24 seconds|1230048
+Upload Data credit balance Balance|300GB|2020-09-14 02:59:22|2020-09-14 03:03:18|0 days 0 hours 3 minutes 56 seconds|414753804
+Upload Data POS cash balance|300GB|2020-09-14 02:59:22|2020-09-14 03:04:23|0 days 0 hours 5 minutes 1 seconds|1120152208
+Upload Data previous application|300GB|2020-09-14 02:59:22|2020-09-14 03:05:11|0 days 0 hours 5 minutes 49 seconds|0
+Upload Data installments payments|300GB|2020-09-14 02:59:22|2020-09-14 03:08:17|0 days 0 hours 8 minutes 55 seconds|1578226632
+Upload Data Bureau Balance|300GB|2020-09-14 02:59:22|2020-09-14 03:09:02|0 days 0 hours 9 minutes 40 seconds|0
+Upload Data Bureau|300GB|2020-09-14 02:59:22|2020-09-14 03:09:31|0 days 0 hours 10 minutes 9 seconds|0
+OVERALL UPLOAD DATA|300GB|2020-09-14 02:59:22|2020-09-14 03:09:31|0 days 0 hours 10 minutes 9 seconds|0
+agg04_pos_cash_balance|300GB|2020-09-14 03:09:32|2020-09-14 03:13:25|0 days 0 hours 3 minutes 53 seconds|0
+agg02_credit_card_balance|300GB|2020-09-14 03:09:32|2020-09-14 03:13:25|0 days 0 hours 3 minutes 53 seconds|0
+agg01_1_agg_bureau|300GB|2020-09-14 03:09:32|2020-09-14 03:17:02|0 days 0 hours 7 minutes 30 seconds|6865712
+agg01_2_agg_bureau_balance|300GB|2020-09-14 03:17:02|2020-09-14 03:20:14|0 days 0 hours 3 minutes 12 seconds|3269580
+agg01_3_new_bureau_balance|300GB|2020-09-14 03:20:14|2020-09-14 03:22:18|0 days 0 hours 2 minutes 4 seconds|1223244
+agg03_installments_payments|300GB|2020-09-14 03:13:25|2020-09-14 03:22:26|0 days 0 hours 9 minutes 1 seconds|0
+agg05_previous_application|300GB|2020-09-14 03:13:25|2020-09-14 03:22:51|0 days 0 hours 9 minutes 26 seconds|0
+agg06_final_application_train|300GB|2020-09-14 03:22:51|2020-09-14 03:24:32|0 days 0 hours 1 minutes 41 seconds|0
+OVERALL AGGREGATION|300GB|2020-09-14 03:22:51|2020-09-14 03:24:32|0 days 0 hours 15 minutes 0 seconds|0
+OVERALL WORKFLOW EXECUTION|300GB|2020-09-14 02:59:22|2020-09-14 03:24:32|0 days 0 hours 25 minutes 10 seconds|0

@@ -1,0 +1,18 @@
+Upload Data final application train|50GB|2020-09-14 02:43:40|2020-09-14 02:44:04|0 days 0 hours 0 minutes 24 seconds|0
+Upload Data credit balance Balance|50GB|2020-09-14 02:43:40|2020-09-14 02:44:35|0 days 0 hours 0 minutes 55 seconds|61445008
+Upload Data previous application|50GB|2020-09-14 02:43:40|2020-09-14 02:44:43|0 days 0 hours 1 minutes 3 seconds|0
+Upload Data POS cash balance|50GB|2020-09-14 02:43:40|2020-09-14 02:44:43|0 days 0 hours 1 minutes 3 seconds|160021744
+Upload Data installments payments|50GB|2020-09-14 02:43:40|2020-09-14 02:45:08|0 days 0 hours 1 minutes 28 seconds|217686432
+Upload Data Bureau Balance|50GB|2020-09-14 02:43:40|2020-09-14 02:45:15|0 days 0 hours 1 minutes 35 seconds|0
+Upload Data Bureau|50GB|2020-09-14 02:43:40|2020-09-14 02:45:23|0 days 0 hours 1 minutes 43 seconds|0
+OVERALL UPLOAD DATA|50GB|2020-09-14 02:43:40|2020-09-14 02:45:23|0 days 0 hours 1 minutes 43 seconds|0
+agg02_credit_card_balance|50GB|2020-09-14 02:45:23|2020-09-14 02:45:50|0 days 0 hours 0 minutes 27 seconds|0
+agg04_pos_cash_balance|50GB|2020-09-14 02:45:23|2020-09-14 02:45:56|0 days 0 hours 0 minutes 33 seconds|0
+agg03_installments_payments|50GB|2020-09-14 02:45:50|2020-09-14 02:46:21|0 days 0 hours 0 minutes 31 seconds|0
+agg01_1_agg_bureau|50GB|2020-09-14 02:45:23|2020-09-14 02:46:59|0 days 0 hours 1 minutes 36 seconds|6865712
+agg05_previous_application|50GB|2020-09-14 02:45:56|2020-09-14 02:47:26|0 days 0 hours 1 minutes 30 seconds|0
+agg01_2_agg_bureau_balance|50GB|2020-09-14 02:46:59|2020-09-14 02:47:35|0 days 0 hours 0 minutes 36 seconds|3269580
+agg01_3_new_bureau_balance|50GB|2020-09-14 02:47:35|2020-09-14 02:48:07|0 days 0 hours 0 minutes 32 seconds|1223244
+agg06_final_application_train|50GB|2020-09-14 02:48:07|2020-09-14 02:49:45|0 days 0 hours 1 minutes 38 seconds|0
+OVERALL AGGREGATION|50GB|2020-09-14 02:48:07|2020-09-14 02:49:45|0 days 0 hours 4 minutes 22 seconds|0
+OVERALL WORKFLOW EXECUTION|50GB|2020-09-14 02:43:40|2020-09-14 02:49:45|0 days 0 hours 6 minutes 5 seconds|0

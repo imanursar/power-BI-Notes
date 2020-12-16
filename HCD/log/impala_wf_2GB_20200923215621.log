@@ -1,0 +1,20 @@
+Upload Data Bureau Balance|2GB|2020-09-23 21:56:21|2020-09-23 21:56:36|0 days 0 hours 0 minutes 15 seconds|
+Upload Data Bureau|2GB|2020-09-23 21:56:21|2020-09-23 21:56:36|0 days 0 hours 0 minutes 15 seconds|
+Upload Data credit balance Balance|2GB|2020-09-23 21:56:21|2020-09-23 21:56:37|0 days 0 hours 0 minutes 16 seconds|
+Upload Data previous application|2GB|2020-09-23 21:56:21|2020-09-23 21:56:38|0 days 0 hours 0 minutes 17 seconds|
+Upload Data POS cash balance|2GB|2020-09-23 21:56:21|2020-09-23 21:56:38|0 days 0 hours 0 minutes 17 seconds|
+Upload Data installments payments|2GB|2020-09-23 21:56:21|2020-09-23 21:56:39|0 days 0 hours 0 minutes 18 seconds|
+Upload Data final application train|2GB|2020-09-23 21:56:21|2020-09-23 21:56:40|0 days 0 hours 0 minutes 19 seconds|
+OVERALL UPLOAD DATA|2GB|2020-09-23 21:56:21|2020-09-23 21:56:40|0 days 0 hours 0 minutes 19 seconds
+agg04_pos_cash_balance|2GB|2020-09-23 21:56:40|2020-09-23 21:56:50|0 days 0 hours 0 minutes 10 seconds
+agg02_credit_card_balance|2GB|2020-09-23 21:56:40|2020-09-23 21:56:51|0 days 0 hours 0 minutes 11 seconds
+agg01_1_agg_bureau|2GB|2020-09-23 21:56:40||0 days -21 hours -56 minutes -40 seconds|1716428
+agg03_installments_payments|2GB|2020-09-23 21:56:51|2020-09-23 21:57:02|0 days 0 hours 0 minutes 11 seconds
+agg01_2_agg_bureau_balance|2GB|2020-09-23 21:56:56|2020-09-23 21:57:02|0 days 0 hours 0 minutes 6 seconds|
+agg01_3_new_bureau_balance|2GB|2020-09-23 21:57:02|2020-09-23 21:57:18|0 days 0 hours 0 minutes 16 seconds|
+agg05_previous_application|2GB|2020-09-23 21:56:50|2020-09-23 21:57:19|0 days 0 hours 0 minutes 29 seconds
+agg06_final_application_train|2GB|2020-09-23 21:57:19|2020-09-23 21:57:51|0 days 0 hours 0 minutes 32 seconds
+OVERALL AGGREGATION|2GB|2020-09-23 21:57:19|2020-09-23 21:57:51|0 days 0 hours 1 minutes 11 seconds
+OVERALL WORKFLOW EXECUTION|2GB|2020-09-23 21:56:21|2020-09-23 21:57:51|0 days 0 hours 1 minutes 30 seconds
+bureau:1716429|bureau_balance:27299926|credit_card_balance:3840313|final_application:307512|pos_cash_balance:10001359|installments_payments:13605402|previous_application:1670215
+agg01_bureau:1716428|agg02_bureau_balance:817395|agg03_new bureau_balance:305811|agg_credit_balance:103558|agg_pos_cash_balance:337252|agg_installments_payments:339587|agg_previous_application:338857|agg_final_application:307511

@@ -1,0 +1,18 @@
+Upload Data final application train|500GB|2020-09-14 03:25:32|2020-09-14 03:26:00|0 days 0 hours 0 minutes 28 seconds|0
+Upload Data credit balance Balance|500GB|2020-09-14 03:25:32|2020-09-14 03:42:19|0 days 0 hours 16 minutes 47 seconds|737340096
+Upload Data POS cash balance|500GB|2020-09-14 03:25:32|2020-09-14 03:42:33|0 days 0 hours 17 minutes 1 seconds|1840250056
+Upload Data previous application|500GB|2020-09-14 03:25:32|2020-09-14 03:43:12|0 days 0 hours 17 minutes 40 seconds|0
+Upload Data Bureau Balance|500GB|2020-09-14 03:25:32|2020-09-14 03:47:12|0 days 0 hours 21 minutes 40 seconds|0
+Upload Data Bureau|500GB|2020-09-14 03:25:32|2020-09-14 03:49:53|0 days 0 hours 24 minutes 21 seconds|0
+Upload Data installments payments|500GB|2020-09-14 03:25:32|2020-09-14 03:52:33|0 days 0 hours 27 minutes 1 seconds|2666658792
+OVERALL UPLOAD DATA|500GB|2020-09-14 03:25:32|2020-09-14 03:52:33|0 days 0 hours 27 minutes 1 seconds|0
+agg01_1_agg_bureau|500GB|2020-09-14 03:52:33|2020-09-14 03:55:02|0 days 0 hours 2 minutes 29 seconds|0
+agg04_pos_cash_balance|500GB|2020-09-14 03:52:33|2020-09-14 03:57:53|0 days 0 hours 5 minutes 20 seconds|0
+agg02_credit_card_balance|500GB|2020-09-14 03:52:33|2020-09-14 03:58:20|0 days 0 hours 5 minutes 47 seconds|0
+agg01_2_agg_bureau_balance|500GB|2020-09-14 03:55:02|2020-09-14 03:59:08|0 days 0 hours 4 minutes 6 seconds|3269580
+agg01_3_new_bureau_balance|500GB|2020-09-14 03:59:08|2020-09-14 03:59:12|0 days 0 hours 0 minutes 4 seconds|0
+agg03_installments_payments|500GB|2020-09-14 03:58:20|2020-09-14 04:06:49|0 days 0 hours 8 minutes 29 seconds|0
+agg05_previous_application|500GB|2020-09-14 03:57:53|2020-09-14 04:06:52|0 days 0 hours 8 minutes 59 seconds|0
+agg06_final_application_train|500GB|2020-09-14 04:06:52|2020-09-14 04:06:55|0 days 0 hours 0 minutes 3 seconds|0
+OVERALL AGGREGATION|500GB|2020-09-14 04:06:52|2020-09-14 04:06:55|0 days 0 hours 14 minutes 22 seconds|0
+OVERALL WORKFLOW EXECUTION|500GB|2020-09-14 03:25:32|2020-09-14 04:06:55|0 days 0 hours 41 minutes 23 seconds|0

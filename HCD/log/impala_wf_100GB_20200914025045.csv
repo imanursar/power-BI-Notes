@@ -1,0 +1,18 @@
+Upload Data final application train|100GB|2020-09-14 02:50:45|2020-09-14 02:51:09|0 days 0 hours 0 minutes 24 seconds|1230048
+Upload Data credit balance Balance|100GB|2020-09-14 02:50:45|2020-09-14 02:52:41|0 days 0 hours 1 minutes 56 seconds|107528764
+Upload Data POS cash balance|100GB|2020-09-14 02:50:45|2020-09-14 02:52:42|0 days 0 hours 1 minutes 57 seconds|280038052
+Upload Data previous application|100GB|2020-09-14 02:50:45|2020-09-14 02:52:49|0 days 0 hours 2 minutes 4 seconds|0
+Upload Data installments payments|100GB|2020-09-14 02:50:45|2020-09-14 02:53:34|0 days 0 hours 2 minutes 49 seconds|489794472
+Upload Data Bureau Balance|100GB|2020-09-14 02:50:45|2020-09-14 02:53:47|0 days 0 hours 3 minutes 2 seconds|0
+Upload Data Bureau|100GB|2020-09-14 02:50:45|2020-09-14 02:53:58|0 days 0 hours 3 minutes 13 seconds|0
+OVERALL UPLOAD DATA|100GB|2020-09-14 02:50:45|2020-09-14 02:53:58|0 days 0 hours 3 minutes 13 seconds|0
+agg02_credit_card_balance|100GB|2020-09-14 02:53:58|2020-09-14 02:54:41|0 days 0 hours 0 minutes 43 seconds|0
+agg04_pos_cash_balance|100GB|2020-09-14 02:53:58|2020-09-14 02:54:50|0 days 0 hours 0 minutes 52 seconds|0
+agg01_1_agg_bureau|100GB|2020-09-14 02:53:58|2020-09-14 02:55:31|0 days 0 hours 1 minutes 33 seconds|6865712
+agg03_installments_payments|100GB|2020-09-14 02:54:42|2020-09-14 02:55:38|0 days 0 hours 0 minutes 56 seconds|0
+agg05_previous_application|100GB|2020-09-14 02:54:50|2020-09-14 02:56:32|0 days 0 hours 1 minutes 42 seconds|0
+agg01_2_agg_bureau_balance|100GB|2020-09-14 02:55:31|2020-09-14 02:56:35|0 days 0 hours 1 minutes 4 seconds|3269580
+agg01_3_new_bureau_balance|100GB|2020-09-14 02:56:35|2020-09-14 02:57:14|0 days 0 hours 0 minutes 39 seconds|1223244
+agg06_final_application_train|100GB|2020-09-14 02:57:14|2020-09-14 02:58:22|0 days 0 hours 1 minutes 8 seconds|0
+OVERALL AGGREGATION|100GB|2020-09-14 02:57:14|2020-09-14 02:58:22|0 days 0 hours 4 minutes 24 seconds|0
+OVERALL WORKFLOW EXECUTION|100GB|2020-09-14 02:50:45|2020-09-14 02:58:22|0 days 0 hours 7 minutes 37 seconds|0
